@@ -1,15 +1,18 @@
 # Project03 ComputingSolutions
 
 ## 📌 Project Overview
-This project explores concepts related to Project03 ComputingSolutions using AWS services.
+This project demonstrates how to identify and implement suitable AWS computing services based on specific use cases and technical requirements.
 
 ## 🚀 Key Features & Services
-- Example AWS Service 1
-- Example AWS Service 2
+- **Amazon EC2** – Scalable virtual servers.
+- **AWS Lambda** – Event-driven serverless compute.
+- **Elastic Load Balancing (ELB)** – Distributes incoming application traffic.
+- **Auto Scaling** – Automatically adjusts capacity to maintain performance.
 
 ## 🖥️ Application in Action
 ![screenshot](p3_-1.png)
 
 ## 📊 Lessons Learned
-- Learned how to apply AWS services effectively.
-- Improved hands-on cloud skills.
+- When to use serverless vs. traditional compute.
+- How to configure EC2 instances and auto scaling groups.
+- Importance of load balancing in high-availability systems.
