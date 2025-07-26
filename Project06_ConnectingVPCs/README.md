@@ -1,6 +1,6 @@
 # Connecting VPCs
 
-## Project Overview
+## 📌 Project Overview
 This project shows how to create VPC peering connections between multiple VPCs.
 
 ## Key Features & Services
