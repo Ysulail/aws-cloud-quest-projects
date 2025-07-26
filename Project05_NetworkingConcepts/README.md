@@ -1,6 +1,6 @@
 # Networking Concepts
 
-##📌 Project Overview
+## 📌 Project Overview
 This project demonstrates configuring security groups and outbound rules.
 
 ## Key Features & Services
