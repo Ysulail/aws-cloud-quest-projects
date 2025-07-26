@@ -34,6 +34,6 @@ Each project helped me build foundational cloud skills and understand how AWS se
 
 ## What's Next?
 
-I'm currently exploring more AWS Quest badges (like Solutions Architect), and building real-world cloud projects to continue leveling up.
+I'm currently exploring more AWS Quest badges, and building real-world cloud projects to continue leveling up.
 
 Stay tuned!
