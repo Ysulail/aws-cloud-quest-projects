@@ -1,6 +1,6 @@
 # Cloud Economics
 
-## Project Overview
+## 📌 Project Overview
 This project involves estimating AWS costs using the AWS Pricing Calculator.
 
 ## Key Features & Services
