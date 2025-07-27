@@ -28,7 +28,7 @@ All 12 projects are listed below, each with its own folder containing a detailed
 - Badge: AWS Cloud Quest – Cloud Practitioner  
 - Format: 12 real-life projects  
 - Skills: EC2, S3, RDS, IAM, Auto Scaling, Load Balancers, VPC, EFS, DynamoDB, and more  
-- Tools Used: AWS Console, GitHub, Markdown, Screenshots
+- Tools Used: AWS Console
 
 Each project helped me build foundational cloud skills and understand how AWS services are applied in practice.
 
