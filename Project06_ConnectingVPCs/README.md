@@ -15,3 +15,7 @@ In this project, I worked on connecting different departments in the organizatio
 ![VPC Peering](p6-3.png)
 
 ## 📊 Lessons Learned
+- Amazon VPC Peering to connect isolated networks between departments.  
+- Route Tables to enable routing between peered VPCs.  
+- EC2 Instances to host workloads across departments.  
+- EC2 Instance Connect for browser-based access to the instances.
