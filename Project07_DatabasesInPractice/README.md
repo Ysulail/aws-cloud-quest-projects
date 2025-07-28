@@ -14,4 +14,7 @@ The goal was to reduce operational overhead for database admins, improve high av
 ![RDS](p7-1.png)
 
 ## 📊 Lessons Learned
-- How to set up primary and replica databases.
+- Amazon RDS helped reduce time spent on routine database tasks like patching and maintenance.
+- Deploying the database across multiple Availability Zones improved high availability and resilience.
+- Using Read Replicas boosted performance for read-heavy workloads without overloading the primary DB.
+- Enabling automatic backups ensured data recovery options were always in place when needed.
