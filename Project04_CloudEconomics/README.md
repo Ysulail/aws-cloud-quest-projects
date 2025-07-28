@@ -1,7 +1,8 @@
 # Cloud Economics
 
 ## 📌 Project Overview
-This project involves estimating AWS costs using the AWS Pricing Calculator.
+This project demonstrates how to use the AWS Pricing Calculator to estimate the cost of running a cloud-based solution.  
+The estimation includes EC2 instances, storage using EBS, and data transfer.
 
 ## 🚀 Key Features & Services
 - **AWS Pricing Calculator** – Estimating monthly cloud costs  
