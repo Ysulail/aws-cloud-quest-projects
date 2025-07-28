@@ -4,7 +4,7 @@
 In this project, I built a scalable NoSQL solution using **Amazon DynamoDB** to help a streaming service store and manage customer viewing data. The main goal was to support features like digital bookmarks and collect metadata from a wide range of devices—all without needing a strict schema. This solution enhanced user experience by tracking where users left off and which devices they used.
 
 ## 🚀 Key Features & Services
- **Amazon DynamoDB Table**: Created a table named `UserVideoHistory` to store user-specific data.
+- **Amazon DynamoDB Table**: Created a table named `UserVideoHistory` to store user-specific data.
 - **NoSQL Flexibility**: Stored items with attributes like:
   - `userId`
   - `lastDateWatched`
