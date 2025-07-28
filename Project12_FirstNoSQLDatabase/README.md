@@ -1,13 +1,13 @@
-# DynamoDB
+# Project12 First No SQL Database
 
-## Project Overview
+## 📌 Project Overview
 This project involves working with NoSQL databases using Amazon DynamoDB.
 
-## Key Features & Services
+## 🚀 Key Features & Services
 - **Amazon DynamoDB** for scalable NoSQL storage
 
-## Application in Action
+## 🖥️ Application in Action
 ![DynamoDB Table](p12-1.png)
 
-## Lessons Learned
+## 📊 Lessons Learned
 - How to perform read operations and understand table structure.
