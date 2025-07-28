@@ -9,11 +9,7 @@ The goal was to optimize server usage based on peak hours and reduce unnecessary
 - **Cost Analysis**: Evaluated on-demand EC2 instance usage across variable workloads.
 - **Snapshot & Storage Costs**: Accounted for EBS and snapshot expenses.
 - **Data Transfer Pricing**: Included outbound internet traffic cost estimates.
-- **Cost Breakdown**:
-  - **Total Monthly Cost**: ~$8,050.69
-  - **Annual Estimate**: ~$96,608.28
-  - **EBS Snapshot Cost**: $2.75/month
-  - **Data Transfer Cost**: ~$7,987.20/month
+
 
 ## 🖥️ Application in Action
 ![Cost Estimate](p4-1.png)
