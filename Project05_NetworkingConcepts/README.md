@@ -1,7 +1,7 @@
 # Project05 Networking Concepts
 
 ## 📌 Project Overview
-This project demonstrates configuring security groups and outbound rules.
+After migrating services to the cloud, the EC2 instances couldn’t access the internet, and there were issues connecting to the database. This project aimed to fix connectivity problems by updating the VPC settings.
 
 ## 🚀 Key Features & Services
 - **Amazon VPC** for networking.
