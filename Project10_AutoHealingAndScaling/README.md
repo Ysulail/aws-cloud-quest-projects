@@ -13,7 +13,6 @@ In this project, I helped a gaming café automate the provisioning and recovery 
 ![Alarm Graph](p10-1.png)
 
 ## 📊 Lessons Learned
- - Auto Scaling ensures **application resilience** by automatically replacing failed EC2 instances.
-- Using **scheduled scaling** helps optimize costs by provisioning servers only when needed.
-- **Launch templates** simplify the management of uniform server configurations.
-- Integrating **CloudWatch alarms** with Auto Scaling improves responsiveness to real-time demand.
+- **Auto Scaling Groups** helped ensure server availability by automatically launching replacement instances when failures occurred.
+- **Launch Templates** simplified the reuse of server configurations across scaling events.
+- **CloudWatch Alarms** played a key role in monitoring CPU usage to trigger scaling policies dynamically.
