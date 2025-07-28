@@ -1,14 +1,14 @@
 # IAM User Groups
 
-## Project Overview
+## 📌 Project Overview
 This project demonstrates how to create IAM user groups with permission boundaries.
 
-## Key Features & Services
+## 🚀 Key Features & Services
 - **IAM User Groups**
 - **ReadOnly Policies** for EC2 and RDS
 
-## Application in Action
+## 🖥️ Application in Action
 ![IAM Group](p8-1.png)
 
-## Lessons Learned
+## 📊 Lessons Learned
 - Importance of assigning least-privilege access through managed policies.
