@@ -8,6 +8,7 @@ In this project, I helped a fictional travel agency improve the reliability and 
 - **Auto Scaling Group** spanning multiple Availability Zones to maintain instance availability during AZ failures.
 - **Load Balancer (ALB)** to distribute incoming traffic evenly across EC2 instances.
 - **Health Checks** to monitor EC2 instance health and ensure only healthy instances receive traffic.
+- **Configured security groups to ensure only the load balancer can route traffic to EC2 instances.**
 
 ##  🖥️ Application in Action
 ![ASG Setup](p11-1.png)
