@@ -1,8 +1,8 @@
 # Project03 Computing Solutions
 
 ## 📌 Project Overview
-This project addressed performance limitations in a class scheduling system caused by underpowered Amazon EC2 instances.  
-The goal was to **upgrade the compute capacity** of the EC2 instance to ensure smooth operation of the scheduling algorithm and support future feature expansion.
+This project addressed performance limitations in a class scheduling system caused by an underpowered Amazon EC2 instance.  
+The goal was to upgrade its compute capacity to ensure smooth operation of the scheduling algorithm and support future feature expansion.
 
 ## 🚀 Key Features & Services
 - **Amazon EC2** – Scalable virtual servers in the cloud.  
