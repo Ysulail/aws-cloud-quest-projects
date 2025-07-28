@@ -4,7 +4,8 @@
 This project involves estimating AWS costs using the AWS Pricing Calculator.
 
 ## 🚀 Key Features & Services
-- **Amazon EC2** for computing.
+- **AWS Pricing Calculator** – Estimating monthly cloud costs  
+- **Amazon EC2** – Used in the estimate as a web server hosting option 
 - **EBS Storage** for persistent storage.
 - **Data Transfer** cost calculations.
 
