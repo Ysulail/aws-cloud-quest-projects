@@ -15,4 +15,3 @@ In this project, I worked on connecting different departments in the organizatio
 ![VPC Peering](p6-3.png)
 
 ## 📊 Lessons Learned
-- Steps for creating and verifying VPC peering connections.
