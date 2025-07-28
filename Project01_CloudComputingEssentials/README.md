@@ -2,18 +2,19 @@
 
 
 ## 📌 Project Overview
-This project walks through initial AWS setup steps such as creating an S3 bucket, uploading a file, and managing its access. It introduces how cloud storage works and how to make content publicly accessible.
+In this project, I helped a coastal city's IT team migrate their wave-size forecast webpage from a traditional data center to the AWS cloud.  
+The goal was to reduce infrastructure delays and increase reliability by hosting the static website on **Amazon S3** instead of managing physical servers.
 
 ## 🚀 Key Features & Services
-- **Amazon S3** – Scalable object storage
-- **Bucket Policies** – Managing access permissions
-- **Public Access Settings** – Controlling who can view content
+- **Amazon S3**: Used to host a static website containing the city's wave forecast page.  
+- **S3 Static Website Hosting**: Enabled to serve HTML content publicly via S3.
+- **Bucket Policy**: Configured to allow public access to the static website content stored in Amazon S3.
 
 ## 🖥️ Application in Action
 ![screenshot](p2_-1.png)
 
 ## 📊 Lessons Learned
-- Learned how to create and configure an S3 bucket
-- Understood the impact of access control and bucket policies
-- Gained experience in uploading files and making them publicly accessible
-
+- Hosting static content on Amazon S3 eliminates the need to manage servers.  
+- Amazon S3 provides **high availability and durability** by default.  
+- Applying a **bucket policy** helps control access to content securely and publicly when needed.  
+- The move to AWS significantly **reduces setup time and cost** compared to traditional infrastructure.
