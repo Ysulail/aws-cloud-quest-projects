@@ -1,4 +1,4 @@
-# Compute Scaling
+# Project11 Highly Available Web Apps
 
 ## Project Overview
 This project showcases how to configure an Auto Scaling group to manage EC2 instances based on demand.
