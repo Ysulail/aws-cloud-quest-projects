@@ -1,4 +1,4 @@
-# Cloud Economics
+#Project04 Cloud Economics
 
 ## 📌 Project Overview
 This project demonstrates how to use the AWS Pricing Calculator to estimate the cost of running a cloud-based solution.  
