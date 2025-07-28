@@ -1,4 +1,4 @@
-# IAM User Groups
+# Project08 Core Security Concepts
 
 ## 📌 Project Overview
 This project demonstrates how to create IAM user groups with permission boundaries.
