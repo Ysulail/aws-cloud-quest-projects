@@ -1,4 +1,4 @@
-# Project01 CloudComputingEssentials
+# Project01 Cloud Computing Essentials
 
 
 ## 📌 Project Overview
