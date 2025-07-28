@@ -1,7 +1,9 @@
 # Project02 Cloud First Steps
 
 ## 📌 Project Overview
-This project introduces the basics of cloud computing by launching a virtual machine using Amazon EC2. It highlights key setup steps such as configuring key pairs, assigning security groups, and accessing the instance remotely.
+In this project, I supported the emergency response team of a fictional island by migrating a critical computational system from a failing on-premises server to the cloud using **Amazon EC2**.  
+**The goal was to increase system resilience and fault tolerance by deploying virtual servers across multiple Availability Zones.**
+
 
 ## 🚀 Key Features & Services
 - **Amazon EC2** – Launching and managing virtual servers
