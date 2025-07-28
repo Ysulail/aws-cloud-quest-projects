@@ -5,7 +5,10 @@ In this project, I helped a fictional insurance company modernize their database
 The goal was to reduce operational overhead for database admins, improve high availability in case of disasters, and enhance performance for read-intensive workloads by using **read replicas**.
 
 ## 🚀 Key Features & Services
-- **Amazon RDS** for managed relational databases.
+- **Amazon RDS** to manage relational databases efficiently.
+- **Multi-AZ Deployment** for high availability and failover support.
+- **Automated Backups** enabled to protect against data loss.
+- **Read Replica** to scale read-heavy database workloads.
 
 ## 🖥️ Application in Action
 ![RDS](p7-1.png)
