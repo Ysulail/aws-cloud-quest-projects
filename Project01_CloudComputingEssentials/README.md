@@ -1,4 +1,5 @@
-# Project02 CloudFirstSteps
+# Project01 CloudComputingEssentials
+
 
 ## 📌 Project Overview
 This project walks through initial AWS setup steps such as creating an S3 bucket, uploading a file, and managing its access. It introduces how cloud storage works and how to make content publicly accessible.
