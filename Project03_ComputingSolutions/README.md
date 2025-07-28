@@ -1,4 +1,4 @@
-# Project03 ComputingSolutions
+# Project03 Computing Solutions
 
 ## 📌 Project Overview
 This project demonstrates how to identify and implement suitable AWS computing services based on specific use cases and technical requirements.
