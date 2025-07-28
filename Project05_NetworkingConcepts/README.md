@@ -12,4 +12,6 @@ After migrating services to the cloud, the EC2 instances couldn’t access the i
 ![Security Group](p5-2.png)
 
 ## 📊 Lessons Learned
-- Importance of restricting traffic to known IP addresses.
+- Configured an Internet Gateway and attached it to the VPC to enable internet access.  
+- Updated route tables to direct traffic from the public subnet to the Internet Gateway.  
+- Defined security group rules to allow traffic between the web server and the database.
