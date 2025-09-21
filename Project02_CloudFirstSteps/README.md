@@ -9,9 +9,6 @@ In this project, I supported the emergency response team of a fictional island b
 - **Key Pairs** – Secure authentication for SSH access
 - **Security Groups** – Firewall rules to control traffic
 
-## 🖥️ Application in Action
-![EC2 Setup](p1-1.png)
-
 ## 📊 Lessons Learned
 - Deploying EC2 instances across multiple AZs improves application resilience and availability.  
 - Cloud-based infrastructure enables rapid recovery from hardware failures without waiting for physical replacements.  
