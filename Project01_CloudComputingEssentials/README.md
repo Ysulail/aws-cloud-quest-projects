@@ -10,9 +10,6 @@ The goal was to reduce infrastructure delays and increase reliability by hosting
 - **S3 Static Website Hosting**: Enabled to serve HTML content publicly via S3.
 - **Bucket Policy**: Configured to allow public access to the static website content stored in Amazon S3.
 
-## 🖥️ Application in Action
-![screenshot](p2_-1.png)
-
 ## 📊 Lessons Learned
 - Hosting static content on Amazon S3 eliminates the need to manage servers.  
 - Amazon S3 provides **high availability and durability** by default.  
