@@ -8,9 +8,6 @@ The goal was to upgrade its compute capacity to ensure smooth operation of the s
 - **Amazon EC2** – Scalable virtual servers in the cloud.  
 - **Instance Type Upgrade** – Increased compute and memory by resizing the EC2 instance.
 
-## 🖥️ Application in Action
-![screenshot](p3_-1.png)
-
 ## 📊 Lessons Learned
 - Upgrading EC2 instance types provides a quick and effective performance boost.  
 - AWS allows seamless vertical scaling without having to recreate resources.  
